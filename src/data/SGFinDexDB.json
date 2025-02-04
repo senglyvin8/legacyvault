@@ -1,0 +1,293 @@
+{
+  "users": [
+    {
+      "personal_info": {
+        "nric_fin": "S7193314C"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "UOB",
+          "accountNumber": "101-202-3456",
+          "amount": 15113.00
+        },
+        {
+          "bank_name": "DBS",
+          "accountNumber": "012-345-6789",
+          "amount": 2888.52
+        },
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "501-234-5678",
+          "amount": 30987.65
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "DBS Black Gold Card",
+          "accountNumber": "1111-1111-1111-1111"
+        },
+        {
+          "card_name": "DBS Altitude Card",
+          "accountNumber": "1111-1111-1111-1111"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "AXA Life Insurance",
+          "policyNumber": "8501-3241-0045",
+          "policyStatus": "Active"
+        },
+        {
+          "insurance_name": "AIA Life Protection",
+          "policyNumber": "6210-7534-2132",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S7255237B"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "UOB",
+          "accountNumber": "134-567-8901",
+          "amount": 6111.00
+        },
+        {
+          "bank_name": "Maybank",
+          "accountNumber": "123-456-7890",
+          "amount": 89.56
+        },
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "501-234-5678",
+          "amount": 23456.78
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "UOB Lady's Card",
+          "accountNumber": "1111-1111-1111-1111"
+        },
+        {
+          "card_name": "OCBC Frank Card",
+          "accountNumber": "1111-1111-1111-1111"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Great Eastern Life Insurance",
+          "policyNumber": "4035-1287-0046",
+          "policyStatus": "Active"
+        },
+        {
+          "insurance_name": "Prudential Life Insurance",
+          "policyNumber": "1729-6431-2080",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9202792G"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "501-234-5678",
+          "amount": 1230.45
+        },
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "701-123-4567",
+          "amount": 1500.00
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "OCBC 365 Credit Card",
+          "accountNumber": "1111-1111-1111-1111"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Prudential Life Insurance",
+          "policyNumber": "1729-6431-2194",
+          "policyStatus": "Active"
+        },
+        {
+          "insurance_name": "Prudential Critical Illness",
+          "policyNumber": "3946-2410-0578",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9153616A"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "DBS",
+          "accountNumber": "110-220-3344",
+          "amount": 15892.67
+        },
+        {
+          "bank_name": "Maybank",
+          "accountNumber": "223-344-5566",
+          "amount": 10045.78
+        },
+        {
+          "bank_name": "Maybank",
+          "accountNumber": "312-456-7890",
+          "amount": 4320.75
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "Maybank World Mastercard",
+          "accountNumber": "1111-1111-1111-1111"
+        },
+        {
+          "card_name": "Citi Rewards Card",
+          "accountNumber": "1111-1111-1111-1111"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Manulife Life Insurance",
+          "policyNumber": "5610-8723-0059",
+          "policyStatus": "Active"
+        },
+        {
+          "insurance_name": "AIA Critical Illness Insurance",
+          "policyNumber": "8542-6701-0032",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S7245177A"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "DBS",
+          "accountNumber": "234-567-8901",
+          "amount": 305.90
+        },
+        {
+          "bank_name": "UOB",
+          "accountNumber": "101-202-3456",
+          "amount": 7650.30
+        },
+        {
+          "bank_name": "UOB",
+          "accountNumber": "134-567-8901",
+          "amount": 14320.75
+        }
+      ],
+      "credit_cards": [
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Great Eastern Life Insurance",
+          "policyNumber": "4035-1287-0267",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S7458701H"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "602-345-6789",
+          "amount": 2098.2
+        },
+        {
+          "bank_name": "Maybank",
+          "accountNumber": "934-567-8901",
+          "amount": 6789.99
+        }
+      ],
+      "credit_cards": [
+      ],
+      "insurance": [
+        {
+          "insurance_name": "AIA Life Protection",
+          "policyNumber": "6210-7534-2490",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9640091H"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "DBS",
+          "accountNumber": "234-567-8901",
+          "amount": 45678.20
+        },
+        {
+          "bank_name": "UOB",
+          "accountNumber": "312-456-7890",
+          "amount": 1820.11
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "Citi Rewards Card",
+          "accountNumber": "1111-1111-1111-1111"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "AIA Life Protection",
+          "policyNumber": "6210-7534-2635",
+          "policyStatus": "Active"
+        },
+        {
+          "insurance_name": "AXA Life Insurance",
+          "policyNumber": "8501-3241-0441",
+          "policyStatus": "Active"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9812346F"
+      },
+      "bank_accounts": [
+        {
+          "bank_name": "DBS",
+          "accountNumber": "410-567-8902",
+          "amount": 3457.12
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "Esso/DBS Mastercard",
+          "accountNumber": "1111-1111-1111-1111"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Prudential Life Insurance",
+          "policyNumber": "1729-6431-2572",
+          "policyStatus": "Active"
+        },
+        {
+          "insurance_name": "Prudential Critical Illness",
+          "policyNumber": "3946-2410-097",
+          "policyStatus": "Active"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "personal_info": {
+      "type": "object",
+      "properties": {
+        "nric_fin": {
+          "type": "string"
+        },
+        "deceased": {
+          "type": "boolean"
+        },
+        "sgfindex_status": {
+          "type": "boolean"
+        }
+      },
+      "required": ["nric_fin", "deceased", "sgfindex_status"]
+    },
+    "vault_access": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "nric_fin": {
+            "type": "string"
+          }
+        },
+        "required": ["nric_fin"]
+      }
+    },
+    "bank_accounts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "bank_name": {
+            "type": "string"
+          },
+          "accountNumber": {
+            "type": "string"
+          },
+          "amount": {
+            "type": "number"
+          },
+          "source": {
+            "type": "string",
+            "enum": ["Manual Entry", "Retrieved from SGFinDex"]
+          }
+        },
+        "required": ["bank_name", "accountNumber", "amount", "source"]
+      }
+    },
+    "credit_cards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "card_name": {
+            "type": "string"
+          },
+          "accountNumber": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string",
+            "enum": ["Manual Entry", "Retrieved from SGFinDex"]
+          }
+        },
+        "required": ["card_name", "accountNumber", "source"]
+      }
+    },
+    "insurance": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "insurance_name": {
+            "type": "string"
+          },
+          "policyNumber": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string",
+            "enum": ["Manual Entry", "Retrieved from SGFinDex"]
+          }
+        },
+        "required": ["insurance_name", "policyNumber", "source"]
+      }
+    }
+  },
+  "required": ["personal_info", "vault_access"]
+} 

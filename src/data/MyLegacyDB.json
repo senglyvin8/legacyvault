@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "personal_info": {
+        "nric_fin": "S7193314C",
+        "name": "James Tan",
+        "deceased": true,
+        "sgfindex_status": true
+      },
+      "vault_access": [
+        {
+          "nric_fin": "S9202792G"
+        },
+        {
+          "nric_fin": "S7255237B"
+        }
+      ],
+      "bank_accounts": [
+        {
+          "bank_name": "Maybank",
+          "accountNumber": "123-456-789",
+          "amount": 4000,
+          "source": "Manual Entry"
+        },
+        {
+          "bank_name": "UOB",
+          "accountNumber": "101-202-3456",
+          "amount": 15113,
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "bank_name": "DBS",
+          "accountNumber": "012-345-6789",
+          "amount": 2888.52,
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "501-234-5678",
+          "amount": 30987.65,
+          "source": "Retrieved from SGFinDex"
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "DBS Black Gold Card",
+          "accountNumber": "1111-1111-1111-1111",
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "card_name": "DBS Altitude Card",
+          "accountNumber": "1111-1111-1111-1111",
+          "source": "Retrieved from SGFinDex"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "AXA Life Insurance",
+          "policyNumber": "8501-3241-0045",
+          "policyStatus": "Active",
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "insurance_name": "AIA Life Protection",
+          "policyNumber": "6210-7534-2132",
+          "policyStatus": "Active",
+          "source": "Retrieved from SGFinDex"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S7255237B",
+        "name": "Selina Sim",
+        "deceased": false,
+        "sgfindex_status": true
+      },
+      "vault_access": [
+        {
+          "nric_fin": "S9202792G"
+        }
+      ],
+      "bank_accounts": [
+        {
+          "bank_name": "UOB",
+          "accountNumber": "134-567-8901",
+          "amount": 6111,
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "bank_name": "Maybank",
+          "accountNumber": "123-456-7890",
+          "amount": 89.56,
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "501-234-5678",
+          "amount": 23456.78,
+          "source": "Retrieved from SGFinDex"
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "UOB Lady's Card",
+          "accountNumber": "1111-1111-1111-1111",
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "card_name": "OCBC Frank Card",
+          "accountNumber": "1111-1111-1111-1111",
+          "source": "Retrieved from SGFinDex"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Great Eastern Life Insurance",
+          "policyNumber": "4035-1287-0046",
+          "policyStatus": "Active",
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "insurance_name": "Prudential Life Insurance",
+          "policyNumber": "1729-6431-2080",
+          "policyStatus": "Active",
+          "source": "Retrieved from SGFinDex"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9202792G",
+        "name": "John Tan",
+        "deceased": false,
+        "sgfindex_status": true
+      },
+      "vault_access": [
+        {
+          "nric_fin": "S7255237B"
+        }
+      ],
+      "bank_accounts": [
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "501-234-5678",
+          "amount": 1230.45,
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "bank_name": "OCBC",
+          "accountNumber": "701-123-4567",
+          "amount": 1500,
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "bank_name": "UOB",
+          "accountNumber": "123-456-789",
+          "amount": 4000,
+          "source": "Manual Entry"
+        }
+      ],
+      "credit_cards": [
+        {
+          "card_name": "OCBC 365 Credit Card",
+          "accountNumber": "1111-1111-1111-1111",
+          "source": "Retrieved from SGFinDex"
+        }
+      ],
+      "insurance": [
+        {
+          "insurance_name": "Prudential Life Insurance",
+          "policyNumber": "1729-6431-2194",
+          "source": "Retrieved from SGFinDex"
+        },
+        {
+          "insurance_name": "Prudential Critical Illness",
+          "policyNumber": "3946-2410-0578",
+          "source": "Retrieved from SGFinDex"
+        }
+      ]
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9153616A",
+        "name": "Jessica Tan",
+        "deceased": false,
+        "sgfindex_status": false
+      },
+      "vault_access": [],
+      "bank_accounts": [],
+      "credit_cards": [],
+      "insurance": []
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S7245177A",
+        "name": "Saiful Bin Ahmad",
+        "deceased": false,
+        "sgfindex_status": false
+      },
+      "vault_access": [],
+      "bank_accounts": [],
+      "credit_cards": [],
+      "insurance": []
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S7458701H",
+        "name": "Siti Binte Ali",
+        "deceased": true,
+        "sgfindex_status": false
+      },
+      "vault_access": [],
+      "bank_accounts": [],
+      "credit_cards": [],
+      "insurance": []
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9640091H",
+        "name": "Sofian Bin Saiful",
+        "deceased": false,
+        "sgfindex_status": false
+      },
+      "vault_access": [],
+      "bank_accounts": [],
+      "credit_cards": [],
+      "insurance": []
+    },
+    {
+      "personal_info": {
+        "nric_fin": "S9812346F",
+        "name": "Shahidah Binte Saiful",
+        "deceased": false,
+        "sgfindex_status": false
+      },
+      "vault_access": [],
+      "bank_accounts": [],
+      "credit_cards": [],
+      "insurance": []
+    }
+  ]
+}
